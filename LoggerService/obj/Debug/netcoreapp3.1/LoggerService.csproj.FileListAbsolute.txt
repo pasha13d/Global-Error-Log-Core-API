@@ -1,0 +1,9 @@
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\DotNet_Projects\VS2019\global error\global-error-handling-aspnetcore\GlobalErrorHandling-Start\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
